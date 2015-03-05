@@ -1,0 +1,32 @@
+SharUtil::randomSeed(5,"")
+NOW() returns 2009-08-05 15:13:00  
+CURDATE() returns 2009-08-05  
+CURTIME() returns 15:13:00
+
+echo $query->getQuery();
+
+updata where deleteBid updateUsermeta
+
+
+var_dump($value);
+
+
+5
+SharQuery::$STATUSCODE['order_status']['CANCELED']
+4
+SharQuery::$STATUSCODE['order_status']['SUCCEED']
+
+3
+SharQuery::$STATUSCODE['order_status']['BUYERREVIEWING']
+
+2
+SharQuery::$STATUSCODE['order_status']['DISPATCHED']
+
+1
+SharQuery::$STATUSCODE['order_status']['WAITSHIPPING']
+
+0
+SharQuery::$STATUSCODE['order_status']['WAITPAYMENT']
+
+
+SharQueryAccount::updateUserPassword(MD5($editForm[password]), $uid);

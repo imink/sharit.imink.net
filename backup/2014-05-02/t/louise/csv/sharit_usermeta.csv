@@ -1,0 +1,11 @@
+user_id,key,value
+1,first_name,Sherlock
+1,middle_name,Null
+1,last_name,Holmes
+4,phone_no,7751431348
+4,gender,Female
+2,first_name,John
+5,postcode,L8 7JZ
+3,gender,Male
+5,address_1,"1a Catharine Street,Liverpool"
+2,last_name,Watson

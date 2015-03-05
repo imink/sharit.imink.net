@@ -1,0 +1,11 @@
+email,password,gid,display_name,salt,review_com,review_ship,review_describe,review_attritude,review_speed,status
+abcd@student.liverpool.ac.uk,4c37bc18416a8810efccb4ebc84548f3,1,Jack Sparrow,sh4567,3.5,4,4.5,5,5,1
+ddss@liverpool.ac.uk,c719ad860731bac1794634fcad7e8879,1,Emma Warson,ag4568,3,5,5,2,3.5,1
+erty@student.liverpool.ac.uk,4b6c08ff9f2cdce692e8ab84b53f180a,1,John Homels,fgk569,4,4,3.5,2.5,4,1
+cvbn@liverpool.ac.uk,496fe9ea91268a7ec1a31f2408736a07,1,Draco Malfoy,sh4dkm,5,3.5,3.5,3,4,1
+hjkl@liv.ac.uk,1ec52722d8a5f33ac917ba57d9127902,1,Ron Weasley,sfjn65,4.5,4.5,4,4,4,1
+sgyw.siiq12@student.liverpool.ac.uk,6b01b49eb00f38c8cfd4ccecc1194282,1,Shire Sebastain,hoi4i2,2,2.5,1,2,2,-1
+oepwep.fceio@liverpool.ac.uk,04bf56ceba8477e799cd61e59825dec3,1,Vermouth Gin,csiu87,3.5,3,3.5,4,3.5,1
+"hiwywy@student.liverpool.ac,uk",4b6c08ff9f2cdce692e8ab84b53f180a,1,Summer.F,ciuiu7,4.1,3.7,4.3,4,3.8,1
+du.huan4@student.liverpool.ac.uk,4b6c08ff9f2cdce692e8ab84b53f181a,1,Owl_MJ,cooiu3,3,3.2,3.6,3.7,3.5,1
+huys.huyi2@student.liverpool.ac.uk,496fe9ea91268a7ec1a31f2408736a08,1,scarlet000,lokmd2,NULL,NULL,NULL,NULL,NULL,0

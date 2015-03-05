@@ -1,0 +1,797 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"print",
+				"print_r  (function)"
+			],
+			[
+				"all",
+				"allowedMaxSize"
+			],
+			[
+				"SUM",
+				"SUM-OF-SQUARES-PROOF"
+			],
+			[
+				"array_k",
+				"array_key_exists"
+			],
+			[
+				"g",
+				"errorCodeMessage  (function)"
+			],
+			[
+				"switch",
+				"switch  (function)"
+			],
+			[
+				"a",
+				"auth  (function)"
+			],
+			[
+				"call",
+				"callbackOnTrue  (variable)"
+			],
+			[
+				"cate",
+				"category"
+			],
+			[
+				"str_rep",
+				"str_replace  (function)"
+			],
+			[
+				"strrep",
+				"str_replace  (function)"
+			],
+			[
+				"_SE",
+				"_SESSION  (variable)"
+			],
+			[
+				"var",
+				"var_dump  (function)"
+			],
+			[
+				"SHAR",
+				"SHARIT_URL_APP"
+			],
+			[
+				"SHARIT_MAILER_",
+				"SHARIT_MAILER_SERVER  (constant)"
+			],
+			[
+				"clea",
+				"clearAllRecipients  (function)"
+			],
+			[
+				"bs3-",
+				"bs3-col	bs3-col"
+			],
+			[
+				"i",
+				"incl	include …"
+			],
+			[
+				"str",
+				"strlen"
+			],
+			[
+				"if",
+				"ifelse	if … else …"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"session",
+				"session_destroy"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"bor",
+				"border"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"ta",
+				"target	Attr"
+			],
+			[
+				"m",
+				"margin-right"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"lab",
+				"labIDList"
+			],
+			[
+				"studentList",
+				"studentIDList"
+			],
+			[
+				"dis",
+				"displayForm"
+			],
+			[
+				"end",
+				"endif"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"for",
+				"formData"
+			],
+			[
+				"has",
+				"hasSelected"
+			],
+			[
+				"mysqli_fe",
+				"mysqli_fetch_array"
+			],
+			[
+				"selected",
+				"selectedLab"
+			],
+			[
+				"sele",
+				"selectedLab"
+			],
+			[
+				"form",
+				"formData"
+			],
+			[
+				"on",
+				"onkeydown	Attr"
+			],
+			[
+				"log",
+				"loginErrors"
+			],
+			[
+				"arr",
+				"array_push"
+			],
+			[
+				"array",
+				"array"
+			],
+			[
+				"strp",
+				"strpos"
+			],
+			[
+				"__call",
+				"__callStatic"
+			],
+			[
+				"__callS",
+				"__callStatic"
+			],
+			[
+				"return",
+				"returnStr"
+			],
+			[
+				"iLeo",
+				"iLeoDo"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"strto",
+				"strtolower"
+			],
+			[
+				"strt",
+				"strtolower"
+			],
+			[
+				"user",
+				"userInput"
+			],
+			[
+				"bo",
+				"bodyLen"
+			],
+			[
+				"subs",
+				"substr_unicode"
+			],
+			[
+				"userIn",
+				"userInputLowerTrim"
+			],
+			[
+				"is_in",
+				"is_int"
+			],
+			[
+				"res",
+				"responseMsg"
+			],
+			[
+				"db_conne",
+				"dbx_connect"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 96.0,
+		"selected_items":
+		[
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"bro",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"brows",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"browser",
+				"Browser Integration: Launch Browser"
+			],
+			[
+				"brow",
+				"Browser Integration: View page source"
+			],
+			[
+				"open",
+				"File: Open In Browser - Production Server"
+			],
+			[
+				"brown",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"the",
+				"Themr: Random theme"
+			],
+			[
+				"theme",
+				"Themr: List themes"
+			],
+			[
+				"doc",
+				"DocBlockr: Reparse comment block"
+			],
+			[
+				"docbl",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"line",
+				"Sort Lines"
+			],
+			[
+				"ind",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"in",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"i",
+				"Package Control: Install Package"
+			],
+			[
+				"inden",
+				"Indentation: Reindent Lines"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"plan",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"mak",
+				"Set Syntax: Makefile"
+			]
+		],
+		"width": 489.0
+	},
+	"console":
+	{
+		"height": 232.0,
+		"history":
+		[
+			"browser",
+			"php",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/LeoDong/Dropbox/Server/sharit/template/partial/float_register.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/include/ele_register.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/backup/2014-05-02/framework/db/SharQueryAuth.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/backup/2014-05-02/framework/db/SharQuerySignUp.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/register.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/single-item.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/include/ele_single-item.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/config.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Component/SharUtil.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Component/SharFiles.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Base/SharRequest.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/leo/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/leo/a.php",
+		"/Users/LeoDong/Desktop/11.owl",
+		"/Users/LeoDong/Desktop/assignment2/sumProof1.maude",
+		"/Users/LeoDong/Dropbox/Academic/Y3-S2/COMP317 Semantics of Programming Languages/maude/sqsum.maude.txt",
+		"/Users/LeoDong/Dropbox/Server/localhost/test.php",
+		"/Users/LeoDong/Dropbox/Server/localhost/action.php",
+		"/Users/LeoDong/Dropbox/Academic/Y3-S2/COMP317 Semantics of Programming Languages/Assignments/Assignment2/sumProof1.maude",
+		"/Users/LeoDong/Desktop/assignment2/sumProof2.maude",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Base/SharAuth.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/publish/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Base/SharException.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/DB/SharQueryError.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect/Validation/Rules/AbstractRule.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect/Validation/Exceptions/ValidationException.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Component/SharValidator.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect/Validation/Rules/AbstractComposite.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/template/header.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Base/SharPage.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/login.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Base/SharApp.php",
+		"/Users/LeoDong/Downloads/Assignment 2/count.py",
+		"/Users/LeoDong/Dropbox/Server/sharit/error2.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/request/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/error.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/SharIt.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/ele_error.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/404.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/about/about.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/about/contact.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/about/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/about/policy.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/order/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/order/index_v.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/order/index_v2.html",
+		"/Users/LeoDong/Dropbox/Server/sharit/order/payment.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/items.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/request/list.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/request/post.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/request/single.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/lucy/about/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/lucy/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/patrick/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/bid.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/edit.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/publish.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/purchase.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/q&a.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/request.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/user/view.php",
+		"/Users/LeoDong/Dropbox/Server/static/me/index.html",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/article.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/post/gallery.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/post/footer.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/footer.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/after_footer.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/layout.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/head.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/post/jiathis.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_widget/links.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_widget/project.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_widget/category.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_partial/header.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_widget/archive.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_widget/rss.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/languages/default.yml",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/languages/zh-CN.yml",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/languages/zh-TW.yml",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_widget/blogroll.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_widget/recent_posts.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_partial/after_footer.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/source/css/_base/variable.styl",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/layout/_partial/post/comment.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/_partial/post/comment.ejs",
+		"/Users/LeoDong/Dropbox/Server/newblog/themes/pacman/source/css/style.styl",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/pacman/layout/post.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/layout.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_partial/footer.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_partial/comment.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_partial/head.ejs",
+		"/Users/LeoDong/Dropbox/Server/iLeoBlog/themes/modernist/layout/_partial/header.ejs",
+		"/Users/LeoDong/Dropbox/Server/blog/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/blog/themes/pacman/_config.yml",
+		"/Users/LeoDong/Dropbox/Server/blog/themes/pacman/layout/post.ejs",
+		"/Users/LeoDong/Dropbox/Server/blog/themes/pacman/layout/_partial/post/article.ejs",
+		"/Users/LeoDong/Dropbox/Exchange/DevelopLib/httpcomponents-client-4.3.3/examples/org/apache/http/examples/client/ClientFormLogin.java",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Component/SharHTML.php",
+		"/Users/LeoDong/Library/Application Support/Sublime Text 3/Packages/User/PHP.sublime-build",
+		"/Users/LeoDong/Dropbox/Server/sharit/t/sherry/index.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/DB/SharQueryAccount.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/FluentPDO/SelectQuery.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/include/ele_items.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/template/layout2.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/product/include/ele_sidebar-category.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/index_show.html",
+		"/Users/LeoDong/Dropbox/Server/localhost/yii/framework/YiiBase.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/FlashMessage/class.messages.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/DB/SharDB.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/DB/SharQueryAuth.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Model/User.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/Model/SharModel.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/import.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/framework/DB/SharQuery.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/setSession.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/displaySession.php",
+		"/Users/LeoDong/Dropbox/Server/localhost/yii/framework/web/CHttpSession.php",
+		"/Users/LeoDong/Dropbox/Server/static/api/wechat/src/Command.php",
+		"/Users/LeoDong/Dropbox/Server/sharit/template/footer.php",
+		"/Users/LeoDong/Downloads/phpDocumentor-2.4.0/phpDocumentor-2.4.0/bin/phpdoc.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 99.0,
+		"where_history":
+		[
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect/Validation",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/lib/Respect",
+			"/Users/LeoDong/Dropbox/Server/sharit",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework",
+			"/Users/LeoDong/Dropbox/Server/sharit",
+			"/Users/LeoDong/Dropbox/Server/sharit/css",
+			"/Users/LeoDong/Dropbox/Server/sharit",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/DB",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/Base",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/DB",
+			"/Users/LeoDong/Dropbox/Server/sharit/framework/Base"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"$_FILES[\"file\"]",
+			"The following two questions ask you to prove the correctness of two programs that compute sums of squares. They are set out in a format typical of exam ques- tions, but each part of the questions asks you to give some Maude code (e.g., defining pre- and post-conditions), and each question can be answered by giving a complete Maude proof score (this is the final part of each question) that includes the various definitions asked for. Your submission should, therefore, consist simply of two Maude files containing the requested proof scores. These should contain all necessary definitions; e.g., explicit declarations of the pre- and post-conditions, invariants, etc. These should also contain enough comments to show that you un- derstand why the proof score demonstrates the correctness of the programs.\nSubmit your work by uploading two files to the Departmental Coursework Submission System at https://www.csc.liv.ac.uk/cgi-bin/submit.pl. The two files should be called",
+			"'input'",
+			"'name'",
+			"reportError",
+			"'input'",
+			"format",
+			"layout(array('_LAYOUT'=>$_LAYOUT)",
+			"layout",
+			"prof",
+			"echo \"Create\"",
+			"<?php echo SHARIT_URL_APP ?>/",
+			"SHARIT_PATH",
+			"close",
+			"side",
+			"img/",
+			"fonts",
+			"../img/",
+			"img/",
+			"footer.png",
+			"footer",
+			"footer.png",
+			"SHARIT_APP_URL",
+			"style/",
+			"SHARIT_TEMPLATE_FOLDER",
+			"SHARIT_APP_PATH",
+			"SHARIT_FRAMEWORD_PATH",
+			"SHARIT_ROOT_PATH",
+			"echo",
+			"useruser",
+			"user",
+			"\");\n",
+			"require_once(\"SharDB.php\");\ninclude_once(\"SharQueryAuth.php\");",
+			"project",
+			"<div class=\"project project-view\">",
+			"project",
+			".jpg",
+			"transition_function",
+			"service",
+			"@media",
+			"ipad",
+			"selectedLabInfo",
+			"name",
+			"var_dump",
+			"error",
+			"msgWrapper",
+			"echo \"abc\"",
+			"());\n",
+			"addFolder",
+			"debug",
+			"<font face=\"ArialMT,Arial,Helvetica,sans-serif\" color=\"#545454\"><span style=\"font-size:15px;\">",
+			"($uit)",
+			"TOKEN",
+			"$this->getFromUserName()",
+			"return;",
+			"\\$this->newTextMessage\\((.*)\\);",
+			"$this",
+			"\\$this->newTextMessage\\((.*)\\);",
+			"\\$this->newTextMessage\\(.*\\);",
+			"\\$this->newTextMessage(.*);",
+			"Shar",
+			"%s",
+			"<?php",
+			"        ",
+			"\");\n            return;\n        }",
+			"\"){\n            $this->newTextMessage(\"",
+			"if($userInput==\"",
+			"SHARIT",
+			",,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,,",
+			"\">.*</option>",
+			"<option value=\"",
+			"\\n",
+			"\">.*</option>",
+			"<option value=\"",
+			"../../../",
+			"\\n",
+			"\">.*</option>",
+			"<option value=\"",
+			"ad d",
+			"do P o s t",
+			"A0",
+			"tim",
+			"authorList",
+			"align",
+			"type",
+			"+",
+			"folde",
+			"direct",
+			"ErrorStore",
+			"errorstore",
+			"GET",
+			"CGI",
+			"perl",
+			"/",
+			"me",
+			"TABLE_USERWORDS",
+			"TABLE_WORDS",
+			"ileodo_GRE_DB_",
+			"function",
+			"126",
+			"<< /S /URI /URI (http://worldmags.net/) >>",
+			"(*) 0 obj\n<< /S /URI /URI (http://worldmags.net/) >>\nendobj",
+			"* 0 obj\n<< /S /URI /URI (http://worldmags.net/) >>\nendobj",
+			"world",
+			"captcha",
+			"CC a p",
+			"virtual_alias_domains",
+			"ssl",
+			"//",
+			"window",
+			"tag",
+			"tab",
+			"148"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"$file",
+			"layout($_LAYOUT",
+			"<?php echo SHARIT_URL_APP ?>",
+			"image/",
+			"../image/",
+			"SHARIT_URL_APP",
+			"<?php echo SHARIT_APP_URL ?>/css/",
+			"SHARIT_PATH_TEMPLATE",
+			"SHARIT_PATH_APP",
+			"SHARIT_PATH_FRAMEWORK",
+			"SHARIT_PATH_ROOT",
+			"<div class=\"project project-view\" onclick=\"\">",
+			"($uit,$entity)",
+			"$entity->getRequest('fromusername')",
+			"$this->getRequest('fromusername')",
+			"",
+			"return $1;",
+			"$entity",
+			"return $1",
+			"return $",
+			"return $1",
+			"return $1;",
+			"iLeo",
+			"\"",
+			"\",\"",
+			"",
+			"iLEODO",
+			"",
+			"../Dropbox/",
+			"",
+			" + ",
+			"POST",
+			"\\",
+			"IleowordUserwords::tableName()",
+			"$this->tableName()",
+			"",
+			"public static function",
+			"168",
+			"<< >>",
+			"",
+			" ",
+			"",
+			"149"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 31.0
+	},
+	"input":
+	{
+		"height": 38.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 82.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "SharIt.sublime-project",
+	"replace":
+	{
+		"height": 76.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 267.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

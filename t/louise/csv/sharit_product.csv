@@ -1,0 +1,11 @@
+user_id,category_id,name,description,condition,upload_time,on_bid,view_number,status,ts,due_date
+5,2,SUMSUNG Galaxy 4S,"Used for one year, white, well preserved",7.5,2014-11-07 08:02:37,1,132,2,,2014-11-15
+2,1,SOFTWARE ENGINEERING Ninth Edition by Ian Sommerville,It is almost new,9,2014-11-07 13:24:56,0,35,0,,
+1,5,Bascketball just used for 3 months,Just bought 3 months ago,9,2014-12-27 23:45:35,0,23,1,,
+7,3,High quality Blue ray Avatar,Just bought 1 months ago,9.5,2014-12-05 17:46:06,0,36,3,,
+8,2,Dell inspiron M101z-1020,Portable laptop,6,2014-10-07 04:56:14,0,98,0,,
+4,2,Wireless mouse BLACK,Good condition with little scratches,7,2014-09-24 07:57:12,0,65,1,,
+6,4,Pink lace dress ,"Almost new, very very beautiful",9.5,2014-10-27 16:27:12,0,87,1,,
+9,5,Running machine,"Used for just four months, work smoothly",8,2014-09-12 00:00:12,1,146,1,,2014-09-15
+8,3,Harry Potter and the Sorcerer's Stone,Just have been watched twice,8.5,2014-11-13 21:17:28,0,167,1,,
+3,6,Bracelet from Forever 21,Have been worn to attend one party,9,2014-10-20 11:20:34,0,93,1,,

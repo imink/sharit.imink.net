@@ -1,0 +1,26 @@
+<?php
+/**
+ * @version 1.0
+ * Last modified by __NAME__ on __TIME__
+ * 
+ */
+class SharValidator {
+	public function shar_displayname(){
+		$validator = Respect\Validation\Validator::create();
+		return $validator->email()->setName("shar_username")->setTemplate("{{input}} is NOT a valid e-mail address");
+	}
+	public function shar_productname(){
+		$validator = Respect\Validation\Validator::create();
+		return $validator->string()->length(1,100)->alnum()->setName("shar_productname")->setTemplate("{{input}} is NOT a valid product name");
+	}
+	public function shar_productcategory(){
+		$validator = Respect\Validation\Validator::create();
+		return $validator->int()->length(1,20000)->setName("shar_productcategory")->setTemplate("{{input}} is NOT a valid category id");
+	}
+
+	public static function __callStatic($ruleName, $arguments)
+    {
+		return Respect\Validation\Validator::__callStatic($ruleName, $arguments);
+
+    }
+}

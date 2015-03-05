@@ -1,0 +1,42 @@
+status
+
+sharit_user
+0 => UNACTIVATED
+1 => ACTIVATED
+-1 => FROZEN
+
+sharit_product
+0 => ONSELL
+1 => SOLDOUT
+2 => DELETE_SOLDOUT
+3 => DELETE_ONSELL
+
+sharit_product_onbid
+0 => ORIGINALSELL
+1 => ONBID
+
+sharit_order
+0 => WAITPAYMENT
+1 => WAITSHIPPING
+2 => DISPATCHED
+3 => BUYERREVIEWING
+4 => SUCCEED
+5 => CANCELED
+
+sharit_bid
+0 => HIDDEN
+1 => SHOW
+
+sharit_category
+0 => UNUSABLE
+1 => USABLE
+
+sharit_picture
+0 => HIDDEN
+1 => MAIN
+2 => SHOW
+
+sharit_request
+-1 => DELECT
+0 => HIDDEN
+1 => SHOW

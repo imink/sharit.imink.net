@@ -1,0 +1,194 @@
+@CHARSET "ISO-8859-1";
+body {  
+	background-color: gray;
+	margin:5%;
+	
+}
+
+.error {
+	margin:15px;
+	font-family:Ariel;
+	color:rgb(200,200,200);
+	text-align:left;
+	font-size:14pt;	
+}
+
+.navigationLink {
+	margin:15px;
+	font-family:Ariel;
+	color:rgb(200,200,200);
+	font-size:12pt;	
+	margin:6px;
+}
+
+
+
+.normal {
+	margin:5px;
+	font-family:Ariel;
+	color:Navy;
+	text-align:left;
+	font-size:14pt;	
+}
+
+.registerForm {
+	margin:5px;
+	border-width:2px;
+	border-color:navy;
+	border-style: solid;
+	width: 280px;
+	
+}
+
+.fieldCaption {
+	font-family:Ariel;
+	color:Navy;
+	text-align:left;
+	font-size:14pt;
+	position:absolute;	
+	top:0px;
+	left: 0px;
+}
+
+.fieldInput {
+	font-family:Ariel;
+	color:Navy;
+	text-align:right;
+	font-size:14pt;	
+	position:absolute;	
+	top:0px;
+	right: 0px;
+  	
+}
+
+.field {
+	width: 260px;
+	position:relative;
+	margin:6px;
+}
+
+
+
+.forgotpass {
+	margin-top:20px;
+	padding:5px 5px; border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+	position:absolute;	
+	top:0px;
+	right: 0px;
+	text-decoration: none;
+		display: block;
+		color: #00c;
+		
+}
+
+
+.loginButton {
+	margin-top:20px;
+	padding:5px 5px; background:#ccc; border:0 none;
+cursor:pointer;
+-webkit-border-radius: 5px;
+border-radius: 5px;
+	position:absolute;	
+	top:0px;
+	left: 0px;
+}
+
+
+.button {
+	margin:16px;
+}
+
+
+.instructionsReg {
+	font-family:Ariel;
+	color:Black;
+	text-align:left;
+	font-size:10pt;	
+	margin:6px;	
+	width:280px;
+}
+
+#header ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+    }
+    
+.logout {
+	float: right;
+	text-decoration: none;
+		display: block;
+		padding: 0.24em 1em;
+		color: #00c;
+		width: 8em;
+		text-align: center;
+		padding:5px 15px; 
+		border:0 none;
+		cursor:pointer;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+}    
+
+.logout a {
+		text-decoration: none;
+		display: block;
+		background: #b0b0ff;
+		padding: 0.24em 1em;
+		color: #00c;
+		width: 8em;
+		text-align: center;
+		padding:5px 15px; 
+		border:0 none;
+		cursor:pointer;
+		-webkit-border-radius: 5px;
+		border-radius: 5px;
+}    
+    
+    
+	#header li {
+		float: left;
+		border: 1px solid #bbb;
+		border-bottom-width: 0;
+		margin: 0;
+    }
+    
+	#header a {
+		text-decoration: none;
+		display: block;
+		background: #eee;
+		padding: 0.24em 1em;
+		color: #00c;
+		width: 8em;
+		text-align: center;
+		
+    }
+	
+	#header a:hover {
+		background: #ddf;
+	}
+	
+	#header #selected {
+		border-color: black;
+	}
+	
+	#header #selected a {
+		position: relative;
+		top: 1px;
+		background:#e0e0ff;
+		color: black;
+		font-weight: bold;
+	}
+	
+	#content {
+		border: 1px solid black;
+		clear: both;
+		padding: 0 1em;
+	}
+	
+	h1 {
+		margin: 0;
+		padding: 0 0 1em 0;
+	}
