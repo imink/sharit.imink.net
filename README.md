@@ -1,5 +1,11 @@
 # sharit.imink.net
-Website project sharIT, a self-written MVC framework online trading website
+
+SharIt is a website project, aiming to provide the students of University of Liverpool with a free online second hand trading platform. 05/2014
+
+It origins from the group project (Module COMP315) of University of Liverpool, implemented by self-written php framework.
+
+The website is hosted on the VPS (DigitalOcean) with LNMP framework.
+
 See [demo][1]
 
 [1]: http://sharit.imink.net
